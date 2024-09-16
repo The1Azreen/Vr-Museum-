@@ -11,6 +11,7 @@ A Virtual Reality Museum built with Unity for the HTC Vive, allowing users to ex
 - [Controls](#controls)
 - [Usage](#usage)
 - [Customization](#customization)
+- [Demo Video](#demo-video)
 - [Credits](#credits)
 
 ---
@@ -97,6 +98,14 @@ A Virtual Reality Museum built with Unity for the HTC Vive, allowing users to ex
     - Attach the audio clips to the respective exhibit objects via the Unity editor.
 3. **Modify Layout**:
     - Use the Unity editor to rearrange exhibits and change room layouts.
+
+---
+
+## Demo Video
+
+Check out a demo of the VR Museum in action:
+
+[![VR Museum Demo](https://i9.ytimg.com/vi_webp/-x_FqWyfkkQ/mq2.webp?sqp=COSvoLcG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEYgWShyMA8=&rs=AOn4CLC6IyefygvIZ1E1qVX3P5-6pMQU1Q)](https://youtu.be/-x_FqWyfkkQ)
 
 ---
 
